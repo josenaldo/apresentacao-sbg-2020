@@ -1,5 +1,4 @@
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise" "default"
-
+theme: jekyll-theme-cayman
 title: Os Desafios e Oportunidades da Gerontecnologia para o Brasil
 description: Apresentação para o curso "Gerontecnologia - Princípios e práticas para apoiar a sociedade em envelhecimento", da Sociedade Brasileira de Gerontecnologia.
+show_downloads: true
